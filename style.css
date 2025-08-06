@@ -1,0 +1,33 @@
+/* #hero-section {
+  background-image: url(./images/1.png);
+  height: 400px;
+}
+
+h1,
+p {
+  color: white;
+} */
+
+body {
+  background-color: lightgray;
+}
+
+.my-image {
+  border-radius: 50%;
+}
+
+.lead {
+  font-size: 15px;
+}
+
+.feature-icon {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 0.75rem;
+}
+
+.icon-square {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 0.75rem;
+}
